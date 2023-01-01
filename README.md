@@ -12,7 +12,7 @@
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzammal-naseer&theme=radical)
 
-:seed: **Repositories**
+:seedling: **Repositories**
 
-|Source Model|24|99|245|344|471|555|661|701|802|919|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Topic|Paper|Stars|
+|---|:---:|:---:|:---:|
