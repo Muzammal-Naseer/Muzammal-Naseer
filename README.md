@@ -14,5 +14,6 @@
 
 :seedling: **Repositories**
 
-|Topic|Paper|Stars|
-|---|:---:|:---:|
+|Tag|Topic|Paper|Stars|
+|---|:---:|:---:|:---:|
+Self-supervision| Video Understanding | [Self-Supervised Video Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)|<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>|
