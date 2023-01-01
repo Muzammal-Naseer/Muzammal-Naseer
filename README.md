@@ -16,4 +16,4 @@
 
 |Tag|Topic|Paper|Venue|Repo|:dizzy: Stars|:floppy_disk: Forks|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
-Self-supervision| Video Understanding | [Self-Supervised Video Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html), CVPR-Oral | |[svt](https://github.com/kahnchana/svt)|80|11|
+Self-supervision| Video Understanding | [Self-Supervised Video Transformer ( CVPR-Oral )](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)| |[svt](https://github.com/kahnchana/svt)|80|11|
