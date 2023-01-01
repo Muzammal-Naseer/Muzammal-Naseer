@@ -16,4 +16,4 @@
 
 |Tag|Topic|Paper|:dizzy: Stars|
 |---|:---:|:---:|:---:|
-Self-supervision| Video Understanding | [Self-Supervised Video Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)| ![Star on GitHub](https://github.com/kahnchana/svt)|
+Self-supervision| Video Understanding | [Self-Supervised Video Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)| [svt](https://github.com/kahnchana/svt)|
