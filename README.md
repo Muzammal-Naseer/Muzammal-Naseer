@@ -16,5 +16,4 @@
 
 |Tag|Topic|Paper|Stars|
 |---|:---:|:---:|:---:|
-Self-supervision| Video Understanding | [Self-Supervised Video Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)|
-<a class="github-button" href="https://github.com/buttons/github-buttons" data-icon="octicon-star" aria-label="Star buttons/github-buttons on GitHub">Star</a>|
+Self-supervision| Video Understanding | [Self-Supervised Video Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)||
