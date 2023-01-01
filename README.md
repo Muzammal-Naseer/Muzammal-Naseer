@@ -9,11 +9,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: he/him/his
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzammal-naseer&theme=radical)
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzammal-naseer&theme=radical)
+
 :seedling: **Repositories**
 
-|Tag|Topic|Paper|:dizzy: Stars|
-|---|:---:|:---:|:---:|
-Self-supervision| Video Understanding | [Self-Supervised Video Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)| [svt](https://github.com/kahnchana/svt)|
+|Tag|Topic|Paper|Repo|:dizzy: Stars|Forks|
+|---|:---:|:---:|:---:|:---:|:---:|
+Self-supervision| Video Understanding | [Self-Supervised Video Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)| [svt](https://github.com/kahnchana/svt)|80|11
