@@ -3,7 +3,7 @@
 - 🔭 I am working on Explainability, Self-supervision, Generative modeling, and Network optimization for image/video understanding, network training stability, adversarial attacks/defenses, domain generalization, and privacy-preserving.
 - 🌱 You are welcome to explore my research work along with the provided code below. Six of the papers are accepted as Oral/Spotlight at ICLR, NeurIPS, CVPR, BMVC, and ACCV.
 - 📫 How to reach me: muz.pak@gmail.com
-- ⚡ Fun fact: I am really into fitness and thinking to join GYM for quite some time now.
+- ⚡ Fun fact: I am really into fitness and thinking to join GYM for quite some time now :smile:
 
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
