@@ -14,7 +14,7 @@
 -->
 :seedling: **Repositories**
 
-|Tag|Topic|Paper|Repo|:dizzy: Stars|:floppy_disk: Forks|
+|Topic|Application|Paper|Repo|:dizzy: Stars|:floppy_disk: Forks|
 |---|:---:|:---:|:---:|:---:|:---:|
 Explainability| Vision Transformer| [Intriguing Properties of Vision Transformers (NeurIPS-Spotlight)](https://openreview.net/forum?id=o2mbl-Hmfgd)|[IPVT](https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers)|155|17|
 Self-supervision| Adversarial Defense | [A Self-supervised Approach for Adversarial Robustness (CVPR-Oral)](https://openaccess.thecvf.com/content_CVPR_2020/html/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.html)|[NRP](https://github.com/Muzammal-Naseer/NRP)|70|16|
