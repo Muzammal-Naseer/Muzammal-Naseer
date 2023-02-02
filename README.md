@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am working on Explainability, Self-supervision, Generative modeling, and Network optimization for image/video understanding, network training stability, adversarial attacks/defenses, domain generalization, and privacy-preserving.
+- 🔭 I am working on Self-supervision, Generative modeling, and Network optimization for image/video understanding, network training stability, adversarial attacks/defenses, out-of-distribution generalization, and privacy-preserving.
 - 🌱 You are welcome to explore my research work along with the provided code below. Six of the papers are accepted as **Oral/Spotlight** at ICLR, NeurIPS, CVPR, BMVC, and ACCV.
 - 📫 How to reach me: muz.pak@gmail.com
 - ⚡ Fun fact: I am really into fitness and thinking to join GYM for quite some time now :smile:
@@ -16,7 +16,7 @@
 
 |Topic|Application|Paper|Repo|:dizzy: Stars|:floppy_disk: Forks|
 |---|:---:|:---:|:---:|:---:|:---:|
-Explainability| Vision Transformer| [Intriguing Properties of Vision Transformers (NeurIPS-Spotlight)](https://openreview.net/forum?id=o2mbl-Hmfgd)|[IPViT](https://github.com/Muzammal-Naseer/IPViT)|155|17|
+Attention Analysis | Vision Transformer| [Intriguing Properties of Vision Transformers (NeurIPS-Spotlight)](https://openreview.net/forum?id=o2mbl-Hmfgd)|[IPViT](https://github.com/Muzammal-Naseer/IPViT)|155|17|
 Self-supervision| Adversarial Defense | [A Self-supervised Approach for Adversarial Robustness (CVPR-Oral)](https://openaccess.thecvf.com/content_CVPR_2020/html/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.html)|[NRP](https://github.com/Muzammal-Naseer/NRP)|71|16|
 Self-supervision| Video Recognition | [Self-Supervised Video Transformer (CVPR-Oral)](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)| [SVT](https://github.com/kahnchana/svt)|82|11|
 Self-supervision| Image Recognition | [How to Train Vision Transformer on Small-scale Datasets? (BMVC)](https://arxiv.org/abs/2210.07240v1)| [VSSD](https://github.com/hananshafi/vits-for-small-scale-datasets) | 64 | 4|
