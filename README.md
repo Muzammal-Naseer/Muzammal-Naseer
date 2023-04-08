@@ -17,7 +17,7 @@
 |Topic|Application|Paper|Repo|:dizzy: Stars|:floppy_disk: Forks|
 |---|:---:|:---:|:---:|:---:|:---:|
 Attention Analysis | Vision Transformer| [Intriguing Properties of Vision Transformers (NeurIPS-Spotlight)](https://openreview.net/forum?id=o2mbl-Hmfgd)|[IPViT](https://github.com/Muzammal-Naseer/IPViT)|158|17|
-Self-supervision| Adversarial Defense | [A Self-supervised Approach for Adversarial Robustness (CVPR-Oral)](https://openaccess.thecvf.com/content_CVPR_2020/html/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.html)|[NRP](https://github.com/Muzammal-Naseer/NRP)|71|16|
+Self-supervision| Adversarial Defense | [A Self-supervised Approach for Adversarial Robustness (CVPR-Oral)](https://openaccess.thecvf.com/content_CVPR_2020/html/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.html)|[NRP](https://github.com/Muzammal-Naseer/NRP)|70|16|
 Self-supervision| Video Recognition | [Self-Supervised Video Transformer (CVPR-Oral)](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)| [SVT](https://github.com/kahnchana/svt)|83|11|
 Self-supervision| Image Recognition | [How to Train Vision Transformer on Small-scale Datasets? (BMVC)](https://arxiv.org/abs/2210.07240v1)| [VSSD](https://github.com/hananshafi/vits-for-small-scale-datasets) | 80 | 7|
 Self-supervision| Adversarial Attack| [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations (BMVC-Oral)](https://arxiv.org/abs/2207.08803)|[ARP](https://github.com/HashmatShadab/APR)|29|2|
