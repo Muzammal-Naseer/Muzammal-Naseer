@@ -16,7 +16,7 @@
 
 |Topic|Application|Paper|Repo|:dizzy: Stars|:floppy_disk: Forks|
 |---|:---:|:---:|:---:|:---:|:---:|
-Attention Analysis | Vision Transformer| [Intriguing Properties of Vision Transformers (NeurIPS-Spotlight)](https://openreview.net/forum?id=o2mbl-Hmfgd)|[IPViT](https://github.com/Muzammal-Naseer/IPViT)|159|17|
+Attention Analysis | Understanding Vision Transformer| [Intriguing Properties of Vision Transformers (NeurIPS-Spotlight)](https://openreview.net/forum?id=o2mbl-Hmfgd)|[IPViT](https://github.com/Muzammal-Naseer/IPViT)|159|17|
 Self-supervision| Adversarial Defense | [A Self-supervised Approach for Adversarial Robustness (CVPR-Oral)](https://openaccess.thecvf.com/content_CVPR_2020/html/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.html)|[NRP](https://github.com/Muzammal-Naseer/NRP)|71|16|
 Contrastive learning | Adversarial Defense | [Stylized Adversarial Training (IEEE-TPAMI)](https://ieeexplore.ieee.org/document/9895320)| [SAT](https://github.com/Muzammal-Naseer/SAT)|10|2|
 Self-supervision| Adversarial Attack| [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations (BMVC-Oral)](https://arxiv.org/abs/2207.08803)|[ARP](https://github.com/HashmatShadab/APR)|29|2|
@@ -26,5 +26,6 @@ Self-ensemble | Adversarial Attack | [On Improving Adversarial Transferability o
 Prompt learning | Adversarial Attack | [Boosting Adversarial Transferability using Dynamic Cues (ICLR)](https://openreview.net/forum?id=SZynfVLGd5) | [DCViT-AT](https://github.com/Muzammal-Naseer/DCViT-AT)|14|2|
 Self-supervision| Video Recognition | [Self-Supervised Video Transformer (CVPR-Oral)](https://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html)| [SVT](https://github.com/kahnchana/svt)|82|14|
 Self-supervision| Image Recognition | [How to Train Vision Transformer on Small-scale Datasets? (BMVC)](https://arxiv.org/abs/2210.07240v1)| [VSSD](https://github.com/hananshafi/vits-for-small-scale-datasets) | 88 |8|
-Self-distillation| Domain Generalization | [Self-Distilled Vision Transformer for Domain Generalization (ACCV-Oral)](https://openaccess.thecvf.com/content/ACCV2022/html/Sultana_Self-Distilled_Vision_Transformer_for_Domain_Generalization_ACCV_2022_paper.html)|[SDViT](https://github.com/maryam089/SDViT) | 28|6|
 Contrastive learning | Image Recognition | [Orthogonal Projection Loss (ICCV)](https://openaccess.thecvf.com/content/ICCV2021/html/Ranasinghe_Orthogonal_Projection_Loss_ICCV_2021_paper.html)| [OPL](https://github.com/kahnchana/opl)|89|14|
+Self-distillation| Domain Generalization | [Self-Distilled Vision Transformer for Domain Generalization (ACCV-Oral)](https://openaccess.thecvf.com/content/ACCV2022/html/Sultana_Self-Distilled_Vision_Transformer_for_Domain_Generalization_ACCV_2022_paper.html)|[SDViT](https://github.com/maryam089/SDViT) | 28|6|
+
