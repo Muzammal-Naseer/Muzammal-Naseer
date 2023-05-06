@@ -28,4 +28,4 @@ Self-supervision| Video Recognition | [Self-Supervised Video Transformer (CVPR-O
 Self-supervision| Image Recognition | [How to Train Vision Transformer on Small-scale Datasets? (BMVC)](https://arxiv.org/abs/2210.07240v1)| [VSSD](https://github.com/hananshafi/vits-for-small-scale-datasets) | 88 |8|
 Contrastive learning | Image Recognition | [Orthogonal Projection Loss (ICCV)](https://openaccess.thecvf.com/content/ICCV2021/html/Ranasinghe_Orthogonal_Projection_Loss_ICCV_2021_paper.html)| [OPL](https://github.com/kahnchana/opl)|89|14|
 Self-distillation| Image Recognition (Domain Generalization) | [Self-Distilled Vision Transformer for Domain Generalization (ACCV-Oral)](https://openaccess.thecvf.com/content/ACCV2022/html/Sultana_Self-Distilled_Vision_Transformer_for_Domain_Generalization_ACCV_2022_paper.html)|[SDViT](https://github.com/maryam089/SDViT) | 28|6|
-
+Prompt learning | Image Recognition (Category Discovery)| [PromptCAL for Generalized Novel Category Discovery (CVPR)](https://arxiv.org/abs/2212.05590)|[PromptCAL](https://github.com/sheng-eatamath/PromptCAL)|21|3|
