@@ -2,7 +2,10 @@
 <!--
 - 🔭 My research focuses on **AI Safety and Reliability**. Toward this goal, I am working on the intersection of self-supervision, generative modeling, spatial/temporal modeling for image/video understanding, label-efficient learning, adversarial attacks/defenses, out-of-distribution generalization, and privacy-preserving.
 -->
+<!--
 - 🔭 My research interests are robust perception to understand and explain AI behavior, temporal perception, self-learning, AI safety, and reliability.
+-->
+- 🔭 My research interests are robust visual perception by understanding and explaining AI behavior through adversarial machine learning, temporal perception, representation learning (self-supervision, self-distillation, self-critique), and configuring the role of language in building AI systems.
 - 🌱 You are welcome to explore my research work along with the provided code below. Six of the papers are accepted as **Oral/Spotlight** at ICLR, NeurIPS, CVPR, BMVC, and ACCV.
 - 📫 How to reach me: muz.pak@gmail.com
 - ⚡ Fun fact: I am really into fitness and thinking to join GYM for quite some time now :smile:
