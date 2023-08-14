@@ -21,7 +21,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
-Self learning | Regulating Foundational Models| [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948)|[PromptSRC](https://github.com/muzairkhattak/PromptSRC)|CVPR'23|
+Prompt learning | Regulating Foundational Models| [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948)|[PromptSRC](https://github.com/muzairkhattak/PromptSRC)|CVPR'23|
 Prompt learning | Video Recognition (Zero-shot)| [Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting](https://arxiv.org/abs/2304.03307)|[Vita-CLIP](https://github.com/TalalWasim/Vita-CLIP)|CVPR'23|
 Prompt learning | Image Recognition (Category Discovery)| [PromptCAL for Generalized Novel Category Discovery](https://arxiv.org/abs/2212.05590)|[PromptCAL](https://github.com/sheng-eatamath/PromptCAL)|CVPR'23|
 Prompt learning | Adversarial Attack | [Boosting Adversarial Transferability using Dynamic Cues](https://openreview.net/forum?id=SZynfVLGd5) | [DCViT-AT](https://github.com/Muzammal-Naseer/DCViT-AT)|ICLR'23|
