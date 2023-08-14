@@ -22,8 +22,8 @@
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
 Attention Analysis | Understanding Vision Transformer| [Intriguing Properties of Vision Transformers](https://openreview.net/forum?id=o2mbl-Hmfgd)|[IPViT](https://github.com/Muzammal-Naseer/IPViT)| NeurIPS'21-Spotlight|
-Self-supervision| Adversarial Defense | [A Self-supervised Approach for Adversarial Robustness (CVPR-Oral)](https://openaccess.thecvf.com/content_CVPR_2020/html/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.html)|[NRP](https://github.com/Muzammal-Naseer/NRP)|
-Contrastive learning | Adversarial Defense | [Stylized Adversarial Training (IEEE-TPAMI)](https://ieeexplore.ieee.org/document/9895320)| [SAT](https://github.com/Muzammal-Naseer/SAT)|
+Self-supervision| Adversarial Defense | [A Self-supervised Approach for Adversarial Robustness](https://openaccess.thecvf.com/content_CVPR_2020/html/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.html)|[NRP](https://github.com/Muzammal-Naseer/NRP)|CVPR'20-Oral|
+Contrastive learning | Adversarial Defense | [Stylized Adversarial Training ](https://ieeexplore.ieee.org/document/9895320)| [SAT](https://github.com/Muzammal-Naseer/SAT)|IEEE-TPAMI'22|
 Self-supervision| Adversarial Attack| [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations (BMVC-Oral)](https://arxiv.org/abs/2207.08803)|[ARP](https://github.com/HashmatShadab/APR)||
 Relativistic optimization| Adversarial Attack | [Cross-Domain Transferability of Adversarial Perturbations (NeurIPS)](https://papers.nips.cc/paper/2019/hash/99cd3843754d20ec3c5885d805db8a32-Abstract.html) | [CDA](https://github.com/Muzammal-Naseer/Cross-Domain-Perturbations)|
 Distribution matching | Adversarial Attack | [On Generating Transferable Targeted Perturbations (ICCV)](https://openaccess.thecvf.com/content/ICCV2021/html/Naseer_On_Generating_Transferable_Targeted_Perturbations_ICCV_2021_paper.html)| [TTP](https://github.com/Muzammal-Naseer/TTP) |
