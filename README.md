@@ -21,7 +21,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|
-Attention Analysis | Understanding Vision Transformer| [Intriguing Properties of Vision Transformers](https://openreview.net/forum?id=o2mbl-Hmfgd)|[IPViT](https://github.com/Muzammal-Naseer/IPViT)| NeurIPS'21-Spotlight
+Attention Analysis | Understanding Vision Transformer| [Intriguing Properties of Vision Transformers](https://openreview.net/forum?id=o2mbl-Hmfgd)|[IPViT](https://github.com/Muzammal-Naseer/IPViT)| NeurIPS'21-Spotlight|
 Self-supervision| Adversarial Defense | [A Self-supervised Approach for Adversarial Robustness (CVPR-Oral)](https://openaccess.thecvf.com/content_CVPR_2020/html/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.html)|[NRP](https://github.com/Muzammal-Naseer/NRP)|
 Contrastive learning | Adversarial Defense | [Stylized Adversarial Training (IEEE-TPAMI)](https://ieeexplore.ieee.org/document/9895320)| [SAT](https://github.com/Muzammal-Naseer/SAT)|
 Self-supervision| Adversarial Attack| [Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations (BMVC-Oral)](https://arxiv.org/abs/2207.08803)|[ARP](https://github.com/HashmatShadab/APR)||
