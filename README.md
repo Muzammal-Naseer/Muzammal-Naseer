@@ -21,7 +21,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
-Vision-language Learning| Face Anti-spoofing | [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://muzammal-naseer.com/TBA)|[FLIP]({https://github.com/koushiksrivats/FLIP)| ICCV'23
+Vision-language Learning| Face Anti-spoofing | [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://muzammal-naseer.com/TBA)|[FLIP](https://github.com/koushiksrivats/FLIP)| ICCV'23
 Network Engineering| Video Recognition| [Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition](https://arxiv.org/abs/2307.06947)| [Video-FocalNets](https://github.com/TalalWasim/Video-FocalNets)| ICCV'23
 Prompt learning | Regulating Foundational Models| [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948)|[PromptSRC](https://github.com/muzairkhattak/PromptSRC)|ICCV'23|
 3D Medical Segmentation| Adversarial Defense | [Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation](https://arxiv.org/abs/2307.07269)|[VAFA](https://github.com/asif-hanif/vafa)|MICCAI'23
