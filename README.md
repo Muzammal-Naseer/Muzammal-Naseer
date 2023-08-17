@@ -21,11 +21,11 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
-Vision-language Learning| Face Anti-spoofing | [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://muzammal-naseer.com/TBA)|[FLIP](https://github.com/koushiksrivats/FLIP)| ICCV'23
+Foundational Model Adaptation| Face Anti-spoofing | [FLIP: Cross-domain Face Anti-spoofing with Language Guidance](https://muzammal-naseer.com/TBA)|[FLIP](https://github.com/koushiksrivats/FLIP)| ICCV'23
 Network Engineering| Video Recognition| [Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition](https://arxiv.org/abs/2307.06947)| [Video-FocalNets](https://github.com/TalalWasim/Video-FocalNets)| ICCV'23
 Prompt learning | Regulating Foundational Models| [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948)|[PromptSRC](https://github.com/muzairkhattak/PromptSRC)|ICCV'23|
 3D Medical Segmentation| Adversarial Defense | [Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation](https://arxiv.org/abs/2307.07269)|[VAFA](https://github.com/asif-hanif/vafa)|MICCAI'23
-Vision-language Learning|Facial Privacy| [CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search](https://arxiv.org/abs/2306.10008)|[Clip2Protect](https://github.com/fahadshamshad/Clip2Protect)|CVPR'23
+Facial Privacy|Adversarial Attack| [CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search](https://arxiv.org/abs/2306.10008)|[Clip2Protect](https://github.com/fahadshamshad/Clip2Protect)|CVPR'23
 Prompt learning | Video Recognition (Zero-shot)| [Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting](https://arxiv.org/abs/2304.03307)|[Vita-CLIP](https://github.com/TalalWasim/Vita-CLIP)|CVPR'23|
 Prompt learning | Image Recognition (Category Discovery)| [PromptCAL for Generalized Novel Category Discovery](https://arxiv.org/abs/2212.05590)|[PromptCAL](https://github.com/sheng-eatamath/PromptCAL)|CVPR'23|
 Prompt learning | Adversarial Attack | [Boosting Adversarial Transferability using Dynamic Cues](https://openreview.net/forum?id=SZynfVLGd5) | [DCViT-AT](https://github.com/Muzammal-Naseer/DCViT-AT)|ICLR'23|
