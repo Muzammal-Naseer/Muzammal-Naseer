@@ -21,6 +21,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
+Focal Modulation | Video Recognition| [Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition](https://arxiv.org/abs/2307.06947)x
 Prompt learning | Regulating Foundational Models| [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948)|[PromptSRC](https://github.com/muzairkhattak/PromptSRC)|ICCV'23|
 3D Medical Segmentation| Adversarial Defense | [Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation](https://arxiv.org/abs/2307.07269)|[VAFA](https://github.com/asif-hanif/vafa)|MICCAI'23
 Facial Privacy| Adversarial Attack| [CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search](https://arxiv.org/abs/2306.10008)|[Clip2Protect](https://github.com/fahadshamshad/Clip2Protect)|CVPR'23
