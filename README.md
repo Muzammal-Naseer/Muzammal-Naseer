@@ -21,7 +21,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
-Self-supervision | Self-structural Alignment of Foundational Models (Zero-Shot) | [Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment](https://arxiv.org/abs/2308.12960) | [S3A](https://github.com/sheng-eatamath/S3A) | AAAI'24--Oral| 
+Self-supervision | Self-structural Alignment of Foundational Models (Zero-Shot) | [Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment](https://arxiv.org/abs/2308.12960) | [S3A](https://github.com/sheng-eatamath/S3A) | AAAI'24-Oral| 
 Prompt learning | Test-Time Alignment of Foundational Models (Zero-Shot) | [Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization](https://arxiv.org/abs/2311.01459) | [PromptAlign](https://github.com/jameelhassan/PromptAlign) | NeurIPS'23|
 Prompt learning | Regulating Foundational Models| [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://arxiv.org/abs/2307.06948)|[PromptSRC](https://github.com/muzairkhattak/PromptSRC)|ICCV'23|
 Network Engineering| Video Recognition| [Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition](https://arxiv.org/abs/2307.06947)| [Video-FocalNets](https://github.com/TalalWasim/Video-FocalNets)| ICCV'23
