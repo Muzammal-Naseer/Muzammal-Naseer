@@ -21,6 +21,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
+Vision-Language Learning | Composed Video Retrieval | [Composed Video Retrieval via Enriched Context and Discriminative Embeddings](https://arxiv.org/abs/2403.16997) | [composed-video-retrieval](https://github.com/OmkarThawakar/composed-video-retrieval)|CVPR'24|
 Self-supervision | Multi-Spectral Satellite Imagery | [Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery](https://arxiv.org/abs/2403.05419)|[satmae_pp](https://github.com/techmn/satmae_pp)|CVPR'24|
 Vision-Language Learning | Video grounding | [Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding](https://arxiv.org/abs/2401.00901)|[Video-GroundingDINO](https://github.com/TalalWasim/Video-GroundingDINO)|CVPR'24|
 Vision-Language Learning| Language Driven  VLM for Remote Sensing | [Geochat: Grounded large vision-language model for remote sensing](https://arxiv.org/abs/2311.15826) | [GeoChat](https://github.com/mbzuai-oryx/GeoChat)|CVPR'24|
