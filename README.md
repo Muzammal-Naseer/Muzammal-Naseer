@@ -21,10 +21,6 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
-
-
-Vision-Language Learning | Video grounding in open-vocabulary scenarios | [Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding](https://arxiv.org/abs/2401.00901)|[Video-GroundingDINO](https://github.com/TalalWasim/Video-GroundingDINO)|CVPR'24
-Vision-Language Multi-task Learning| Language Driven  VLM for Remote Sensing | [Geochat: Grounded large vision-language model for remote sensing](https://arxiv.org/abs/2311.15826) | [GeoChat](https://github.com/mbzuai-oryx/GeoChat)|CVPR'24
 Text2Image generation| Leaverging LLM to generate complex scenes (Zero-Shot) | [LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts](https://arxiv.org/abs/2310.10640) | [llmblueprint](https://github.com/hananshafi/llmblueprint)| ICLR'24|
 Self-supervision | Self-structural Alignment of Foundational Models (Zero-Shot) | [Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment](https://arxiv.org/abs/2308.12960) | [S3A](https://github.com/sheng-eatamath/S3A) | AAAI'24-Oral| 
 Prompt learning | Test-Time Alignment of Foundational Models (Zero-Shot) | [Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization](https://arxiv.org/abs/2311.01459) | [PromptAlign](https://github.com/jameelhassan/PromptAlign) | NeurIPS'23|
