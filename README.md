@@ -21,8 +21,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
-Adversarial Analysis| Volumetric Medical Segmentation | [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models
-](https://arxiv.org/abs/2406.08486) | [RVMSM](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|BMVC'24|
+Adversarial Analysis| Volumetric Medical Segmentation | [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org/abs/2406.08486) | [RVMSM](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|BMVC'24|
 Vision-Language Learning | Histopathology Representation Learning | [Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning](https://arxiv.org/abs/2403.14616) | [HLSS](https://github.com/Hasindri/HLSS)|MICCAI'24|
 Self-supervision | Volumetric Medical Segmentation | [MedContext: Learning Contextual Cues for Efficient Volumetric Medical Segmentation](https://arxiv.org/abs/2402.17725) | [MedContext](https://github.com/hananshafi/MedContext)|MICCAI'24|
 Prompt learning | Adversarial Attack| [BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning](https://arxiv.org/abs/2408.07440) | [baple](https://github.com/asif-hanif/baple)|MICCAI'24|
