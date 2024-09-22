@@ -20,6 +20,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
+Visual-Spatial Perception|Understanding Vision Models's Generalization| [ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes](https://arxiv.org/abs/2403.04701) | [ObjectCompose](https://github.com/Muhammad-Huzaifaa/ObjectCompose)|ACCV'24|
 Adversarial Machine Learning| Volumetric Medical Segmentation | [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org/abs/2406.08486) | [RVMSM](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|BMVC'24|
 Vision-Language Model | Histopathology Representation Learning | [Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning](https://arxiv.org/abs/2403.14616) | [HLSS](https://github.com/Hasindri/HLSS)|MICCAI'24|
 Self-Learning | Volumetric Medical Segmentation | [MedContext: Learning Contextual Cues for Efficient Volumetric Medical Segmentation](https://arxiv.org/abs/2402.17725) | [MedContext](https://github.com/hananshafi/MedContext)|MICCAI'24|
