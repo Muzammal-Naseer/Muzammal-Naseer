@@ -20,7 +20,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
-Visual-Spatial Perception|Novel Object Detection| [Enhancing Novel Object Detection via Cooperative Foundational Models](https://arxiv.org/abs/2311.12068) | [CFM](https://github.com/rohit901/cooperative-foundational-models)|WACV'24|
+Visual-Spatial Perception|Novel Object Detection| [Enhancing Novel Object Detection via Cooperative Foundational Models](https://arxiv.org/abs/2311.12068) | [CFM](https://github.com/rohit901/cooperative-foundational-models)|WACV'25|
 Visual-Spatial Perception|Understanding Vision Models's Generalization| [ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes](https://arxiv.org/abs/2403.04701) | [ObjectCompose](https://github.com/Muhammad-Huzaifaa/ObjectCompose)|ACCV'24-Oral|
 Adversarial Machine Learning| Volumetric Medical Segmentation | [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org/abs/2406.08486) | [RVMSM](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|BMVC'24|
 Vision-Language Model | Histopathology Representation Learning | [Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning](https://arxiv.org/abs/2403.14616) | [HLSS](https://github.com/Hasindri/HLSS)|MICCAI'24|
