@@ -20,6 +20,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
+Vision-Language Model | Prompt Learning without Visual Data | [Learning to Prompt with Text Only Supervision for Vision-Language Models](https://arxiv.org/abs/2401.02418) | [ProText](https://github.com/muzairkhattak/ProText) | AAAI'25|
 Vision-Language Model | Agriculture and Livestock Representation Learning | [AgriCLIP: Adapting CLIP for Agriculture and Livestock via Domain-Specialized Cross-Model Alignment](https://arxiv.org/abs/2410.01407) | [AgriCLIP](https://github.com/umair1221/AgriCLIP/tree/main) | COLING'25|
 Visual-Spatial Perception|Novel Object Detection| [Enhancing Novel Object Detection via Cooperative Foundational Models](https://arxiv.org/abs/2311.12068) | [CFM](https://github.com/rohit901/cooperative-foundational-models)|WACV'25|
 Visual-Spatial Perception|Understanding Vision Models's Generalization| [ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes](https://arxiv.org/abs/2403.04701) | [ObjectCompose](https://github.com/Muhammad-Huzaifaa/ObjectCompose)|ACCV'24-Oral|
