@@ -20,6 +20,8 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
+Adversarial Machine Learning | Concept Erasing from Text-to-Image Models | [STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models](https://arxiv.org/abs/2408.16807) | [robust-concept-rrasing](https://github.com/koushiksrivats/robust-concept-erasing)| CVPR'25-Highlight|
+Vision-Language Model | Video Language Understanding | [Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models](https://arxiv.org/abs/2412.18609) | [Video-Panda](https://github.com/jh-yi/Video-Panda)| CVPR'25 |
 Vision-Language Model | X-ray Baggage Security | [STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection](https://arxiv.org/abs/2504.02823) | [STING-BEE](https://github.com/Divs1159/STING-BEE)| CVPR'25-Highlight|
 Self-Learning | Volumetric Medical Segmentation | [DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation](https://arxiv.org/abs/2504.04566) | [DyCON](https://github.com/KU-CVML/DyCON)| CVPR'25|
 Vision-Language Model | Understanding VLM's Generalization | [VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs](https://arxiv.org/abs/2406.10326) | [VANE-Bench](https://github.com/rohit901/VANE-Bench) | NAACL'25|
