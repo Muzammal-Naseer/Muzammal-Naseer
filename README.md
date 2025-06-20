@@ -20,6 +20,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
+Adversarial Machine Learning | Histopathology Representation Learning | [Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology](https://arxiv.org/abs/2503.10629) | [https://github.com/HashmatShadab/HSAT](HSAT) | MICCAI'25|
 Adversarial Machine Learning | Concept Erasing from Text-to-Image Models | [STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models](https://arxiv.org/abs/2408.16807) | [robust-concept-rrasing](https://github.com/koushiksrivats/robust-concept-erasing)| CVPR'25-Highlight|
 Vision-Language Model | Video Language Understanding | [Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models](https://arxiv.org/abs/2412.18609) | [Video-Panda](https://github.com/jh-yi/Video-Panda)| CVPR'25 |
 Vision-Language Model | X-ray Baggage Security | [STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection](https://arxiv.org/abs/2504.02823) | [STING-BEE](https://github.com/Divs1159/STING-BEE)| CVPR'25-Highlight|
