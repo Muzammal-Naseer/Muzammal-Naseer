@@ -5,7 +5,7 @@
 <!--
 - 🔭 My research interests are robust perception to understand and explain AI behavior, temporal perception, self-learning, AI safety, and reliability.
 -->
-- 🔭 I am interested in building Robust Intelligent Systems. My research focuses on robust visual-spatial and temporal perception, understanding and explaining AI behavior through adversarial machine learning, representation learning through self-learning ( self-supervision, self-distillation, self-critique, self-reflection), and configuring the role of large language models (LLMs) in building robust AI systems across applications of life sciences and security.
+- 🔭 I am interested in building Robust Intelligent Systems. My research focuses on visual-spatial and temporal perception, understanding and explaining AI behavior through adversarial machine learning, representation learning through self-learning ( self-supervision, self-distillation, self-critique, self-reflection), and configuring the role of large language models (LLMs) in understanding the physical world around us.
 - 🌱 You are welcome to explore my research work using the code provided below. Ten of the papers have been accepted as **Oral/Spotlight/Highlight** at ICLR, NeurIPS, CVPR, AAAI, BMVC, and ACCV.
 - 📫 How to reach me: muz.pak@gmail.com
 
