@@ -20,6 +20,8 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
+LLM Pre/Post Training | Cyber AI | [RedSage: A Cybersecurity Generalist LLM](https://openreview.net/forum?id=W4FAenIrQ2) | [RedSage](https://github.com/RISys-Lab/RedSage) | ICLR'26 |
+In-context Learning | 3D Hand Reconstruction | [EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning](https://openreview.net/forum?id=nwjy9BeorI) | [EgoHandICL](https://github.com/Nicous20/EgoHandICL) | ICLR'26 |
 Adversarial Machine Learning | Histopathology Representation Learning | [Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology](https://arxiv.org/abs/2503.10629) | [HSAT](https://github.com/HashmatShadab/HSAT) | MICCAI'25|
 Adversarial Machine Learning | Concept Erasing from Text-to-Image Models | [STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models](https://arxiv.org/abs/2408.16807) | [robust-concept-rrasing](https://github.com/koushiksrivats/robust-concept-erasing)| CVPR'25-Highlight|
 Vision-Language Model | Video Language Understanding | [Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models](https://arxiv.org/abs/2412.18609) | [Video-Panda](https://github.com/jh-yi/Video-Panda)| CVPR'25 |
