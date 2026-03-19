@@ -20,6 +20,7 @@
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
+Vision-Language Modeling | Video Language Grounding | [SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs](https://arxiv.org/abs/2603.12382) | [SPARROW](https://github.com/RISys-Lab/SPARROW)| CVPR'26 |
 LLM Pre/Post Training | Cyber AI | [RedSage: A Cybersecurity Generalist LLM](https://openreview.net/forum?id=W4FAenIrQ2) | [RedSage](https://github.com/RISys-Lab/RedSage) | ICLR'26 |
 Vision-Language Modeling| 3D Hand Reconstruction | [EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning](https://openreview.net/forum?id=nwjy9BeorI) | [EgoHandICL](https://github.com/Nicous20/EgoHandICL) | ICLR'26 |
 Adversarial Machine Learning | Histopathology Representation Learning | [Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology](https://arxiv.org/abs/2503.10629) | [HSAT](https://github.com/HashmatShadab/HSAT) | MICCAI'25|
