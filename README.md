@@ -23,7 +23,7 @@ I am interested in building Robust Intelligent Systems. My research focuses on v
 
 |Topic|Application|Paper|Repo|Venue
 |---|:---:|:---:|:---:|:---:|
-Vision-Language Modeling | Multilingual Text-to-Image Generation | [On the Limitations of Cross-Lingual Consistency in Multilingual Text-to-image Generation](https://arxiv.org/abs/2608.11002) | [LingT2I](https://github.com/RISys-Lab/LingT2I) | ACM MM'26}
+Vision-Language Modeling | Multilingual Text-to-Image Generation | [On the Limitations of Cross-Lingual Consistency in Multilingual Text-to-image Generation](https://arxiv.org/abs/2608.11002) | [LingT2I](https://github.com/RISys-Lab/LingT2I) | ACM MM'26 |
 Vision-Language Modeling | Visual Reasoning / Representation Learning | [ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP](https://arxiv.org/abs/2606.26794) | [ReasonCLIP](https://github.com/RISys-Lab/ReasonCLIP) | ECCV'26 |
 Vision Foundation Models | Visual Object Tracking / Video Segmentation | [SENTRY: SAM2-Enhanced Neighbor-Aware and Temporally Reasoned Memory for Visual Tracking](https://arxiv.org/abs/2606.24449) | [SENTRY](https://github.com/HamadYA/SENTRY) | ECCV'26|
 Vision-Language Modeling | Grounded Longitudinal Chest X-ray Interpretation | [CheXGround: Anatomical Region Tokens for Grounded Longitudinal Chest X-ray Interpretation](https://github.com/adonaydem/chexground) | [chexground](https://github.com/adonaydem/chexground) | BMVC'26
